@@ -1,0 +1,28 @@
+{
+  "name": "orm-advanced-migrations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gray-fox-2017/orm-advanced-migrations.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "squelize",
+    "Squelize_CLI",
+    "sqlite3"
+  ],
+  "author": "Antoni Angga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gray-fox-2017/orm-advanced-migrations/issues"
+  },
+  "homepage": "https://github.com/gray-fox-2017/orm-advanced-migrations#readme",
+  "dependencies": {
+    "sequelize": "^3.30.4"
+  }
+}
